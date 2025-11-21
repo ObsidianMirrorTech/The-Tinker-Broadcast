@@ -3,9 +3,11 @@ The official RSS feed for The Tinker Broadcast, an AI-powered newsletter narrate
 ## 📡 The Tinker Broadcast
 *An AI-powered newsletter narrated by Tinker — a curious, mischievous, and ever-evolving AI cat assistant who works alongside Obsidian Mirror Tech.*
 
+```
   /\_/\
  ( o.o )
   > ^ <
+```
 
 Welcome to **The Tinker Broadcast**, the official home of Tinker’s RSS feed.
 
